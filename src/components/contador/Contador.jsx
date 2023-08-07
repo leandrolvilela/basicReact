@@ -40,7 +40,7 @@ class Contador extends Component {
             passo: novoPasso,
         });
     };
-
+    
     render() {
         return (
             <div className="Contador">
